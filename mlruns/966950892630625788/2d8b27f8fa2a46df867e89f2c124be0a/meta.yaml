@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/966950892630625788/2d8b27f8fa2a46df867e89f2c124be0a/artifacts
+end_time: 1752766270516
+entry_point_name: ''
+experiment_id: '966950892630625788'
+lifecycle_stage: active
+run_id: 2d8b27f8fa2a46df867e89f2c124be0a
+run_name: grandiose-roo-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752766269955
+status: 3
+tags: []
+user_id: codespace

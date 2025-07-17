@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/966950892630625788/77fc8f4698b542d1b1432fe1100359a4/artifacts
+end_time: 1752766269581
+entry_point_name: ''
+experiment_id: '966950892630625788'
+lifecycle_stage: active
+run_id: 77fc8f4698b542d1b1432fe1100359a4
+run_name: likeable-kite-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752766261699
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/966950892630625788/7a195b7eb4b946c0855240d9a4327206/artifacts
+end_time: 1752765469400
+entry_point_name: ''
+experiment_id: '966950892630625788'
+lifecycle_stage: active
+run_id: 7a195b7eb4b946c0855240d9a4327206
+run_name: peaceful-toad-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752765460527
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/966950892630625788/aeb9c3fe5f4743508f13288de652b2bb/artifacts
+end_time: 1752765483814
+entry_point_name: ''
+experiment_id: '966950892630625788'
+lifecycle_stage: active
+run_id: aeb9c3fe5f4743508f13288de652b2bb
+run_name: sincere-bear-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752765480324
+status: 3
+tags: []
+user_id: codespace

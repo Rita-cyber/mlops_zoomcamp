@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/966950892630625788/f9faa92ff2204df19e266e8fa7582039/artifacts
+end_time: 1752765448789
+entry_point_name: ''
+experiment_id: '966950892630625788'
+lifecycle_stage: active
+run_id: f9faa92ff2204df19e266e8fa7582039
+run_name: indecisive-snipe-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752765443338
+status: 3
+tags: []
+user_id: codespace

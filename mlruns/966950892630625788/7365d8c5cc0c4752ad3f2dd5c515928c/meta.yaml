@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/966950892630625788/7365d8c5cc0c4752ad3f2dd5c515928c/artifacts
+end_time: 1752766297473
+entry_point_name: ''
+experiment_id: '966950892630625788'
+lifecycle_stage: active
+run_id: 7365d8c5cc0c4752ad3f2dd5c515928c
+run_name: masked-bear-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752766296549
+status: 3
+tags: []
+user_id: codespace

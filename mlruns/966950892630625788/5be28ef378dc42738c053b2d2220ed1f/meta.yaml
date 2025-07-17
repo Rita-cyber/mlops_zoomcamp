@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/966950892630625788/5be28ef378dc42738c053b2d2220ed1f/artifacts
+end_time: 1752766275882
+entry_point_name: ''
+experiment_id: '966950892630625788'
+lifecycle_stage: active
+run_id: 5be28ef378dc42738c053b2d2220ed1f
+run_name: placid-cat-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752766270526
+status: 3
+tags: []
+user_id: codespace

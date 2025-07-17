@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/966950892630625788/645eb660d4884cc39b1ec751ce17853b/artifacts
+end_time: 1752765487502
+entry_point_name: ''
+experiment_id: '966950892630625788'
+lifecycle_stage: active
+run_id: 645eb660d4884cc39b1ec751ce17853b
+run_name: polite-steed-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752765486551
+status: 3
+tags: []
+user_id: codespace

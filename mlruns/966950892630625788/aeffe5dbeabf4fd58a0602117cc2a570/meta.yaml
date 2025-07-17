@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/966950892630625788/aeffe5dbeabf4fd58a0602117cc2a570/artifacts
+end_time: 1752765470325
+entry_point_name: ''
+experiment_id: '966950892630625788'
+lifecycle_stage: active
+run_id: aeffe5dbeabf4fd58a0602117cc2a570
+run_name: industrious-rat-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752765469413
+status: 3
+tags: []
+user_id: codespace

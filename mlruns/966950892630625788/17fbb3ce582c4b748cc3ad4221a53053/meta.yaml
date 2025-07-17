@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/966950892630625788/17fbb3ce582c4b748cc3ad4221a53053/artifacts
+end_time: 1752766313925
+entry_point_name: ''
+experiment_id: '966950892630625788'
+lifecycle_stage: active
+run_id: 17fbb3ce582c4b748cc3ad4221a53053
+run_name: valuable-snail-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752766311133
+status: 3
+tags: []
+user_id: codespace

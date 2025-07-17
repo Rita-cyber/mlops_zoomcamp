@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/966950892630625788/e72f210b90ea447abae0aacaa0d59821/artifacts
+end_time: 1752765490779
+entry_point_name: ''
+experiment_id: '966950892630625788'
+lifecycle_stage: active
+run_id: e72f210b90ea447abae0aacaa0d59821
+run_name: luxuriant-bee-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752765487514
+status: 3
+tags: []
+user_id: codespace

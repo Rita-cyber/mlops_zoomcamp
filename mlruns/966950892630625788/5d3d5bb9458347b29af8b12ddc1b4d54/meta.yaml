@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/966950892630625788/5d3d5bb9458347b29af8b12ddc1b4d54/artifacts
+end_time: 1752766314862
+entry_point_name: ''
+experiment_id: '966950892630625788'
+lifecycle_stage: active
+run_id: 5d3d5bb9458347b29af8b12ddc1b4d54
+run_name: puzzled-dog-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752766313936
+status: 3
+tags: []
+user_id: codespace

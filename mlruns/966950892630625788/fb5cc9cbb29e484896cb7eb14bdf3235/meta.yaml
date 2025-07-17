@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/966950892630625788/fb5cc9cbb29e484896cb7eb14bdf3235/artifacts
+end_time: 1752766307587
+entry_point_name: ''
+experiment_id: '966950892630625788'
+lifecycle_stage: active
+run_id: fb5cc9cbb29e484896cb7eb14bdf3235
+run_name: skillful-worm-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752766303045
+status: 3
+tags: []
+user_id: codespace

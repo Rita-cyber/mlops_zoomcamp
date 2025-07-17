@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/homework/mlruns/0/927935e7997d426fbf211fbd9da1b5a6/artifacts
+end_time: 1752757789768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 927935e7997d426fbf211fbd9da1b5a6
+run_name: glamorous-eel-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752757772241
+status: 3
+tags: []
+user_id: codespace
